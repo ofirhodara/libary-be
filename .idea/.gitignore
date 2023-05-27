@@ -1,3 +1,28 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Compiled Python files
+*.pyc
+
+# Byte-compiled Python files (PYC, PYO)
+__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm files
+.idea/
+
+# Miscellaneous
+*.pyo
+*.pyd
+*.so
+*.swp
+*~
+.DS_Store
